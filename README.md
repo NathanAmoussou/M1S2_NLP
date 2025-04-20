@@ -36,5 +36,6 @@ blablabla
 ## Roadmap (for the last day)
 
 - [ ] Expand the supported queries
+    - [ ] Au niveau des patterns, il y en a peut être des redondants, fixer ça
 - [ ] Clean up everything
 - [ ] Add visualization
